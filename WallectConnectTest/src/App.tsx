@@ -5,7 +5,7 @@ import { WagmiConfig, configureChains, createConfig } from 'wagmi'
 import { publicProvider } from 'wagmi/providers/public'
 import { mainnet } from 'viem/chains'
 import { WalletConnectConnector } from 'wagmi/connectors/walletConnect'
-import ConnectButton from "../components/ConnectButton"; 
+import ConnectButton from '../components/ConnectButton'; 
 
 const projectId = import.meta.env.VITE_PROJECT_ID; 
 export const apikey = import.meta.env.VITE_ALCHEMY_KEY;
@@ -30,12 +30,21 @@ const wagmiConfig = createConfig({
   publicClient
 })
 
-createWeb3Modal({ wagmiConfig, projectId, chains })
+createWeb3Modal({ 
+  wagmiConfig, 
+  projectId, 
+  chains,
+  themeVariables: {
+    '--w3m-accent': '#06F', 
+    '--w3m-border-radius-master': '1.25rem', 
+    '--wui-icon-box-size-sm': '24px'
+  }
+})
 
 function App() {
   return (
     <WagmiConfig config={wagmiConfig}>
-       <ConnectButton />
+      <ConnectButton/>
     </WagmiConfig>
   )
 }
