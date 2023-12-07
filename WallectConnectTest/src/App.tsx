@@ -5,7 +5,7 @@ import { WagmiConfig, configureChains, createConfig } from 'wagmi'
 import { publicProvider } from 'wagmi/providers/public'
 import { mainnet } from 'viem/chains'
 import { WalletConnectConnector } from 'wagmi/connectors/walletConnect'
-
+import ConnectButton from "../components/ConnectButton"; 
 
 const projectId = import.meta.env.VITE_PROJECT_ID; 
 export const apikey = import.meta.env.VITE_ALCHEMY_KEY;
@@ -35,7 +35,7 @@ createWeb3Modal({ wagmiConfig, projectId, chains })
 function App() {
   return (
     <WagmiConfig config={wagmiConfig}>
-      <w3m-button />
+       <ConnectButton />
     </WagmiConfig>
   )
 }
