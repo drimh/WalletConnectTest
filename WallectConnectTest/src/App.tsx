@@ -37,7 +37,7 @@ createWeb3Modal({
   themeVariables: {
     '--w3m-accent': '#06F', 
     '--w3m-border-radius-master': '1.25rem', 
-    '--wui-icon-box-size-sm': '24px'
+    '--w3m-font-family':'Poppins, --w3m-text-medium-regular-size, --w3m-text-xsmall-regular-line-height'
   }
 })
 
