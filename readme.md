@@ -16,13 +16,6 @@ https://github.com/drimh/WalletConnectTest/assets/107299318/f6bb25d8-f0ef-41a7-a
 ## Installation
 Step-by-step guide to get a copy of the project up and running locally for development and testing.
 
-### Prerequisites
-Which things you need to install the softwre and how to install them,
-
-```bash
-$ install required software and libraries
-```
-
 ### Install
 A step-by-step guide to installing the project, including necessary configuration etc.
 
