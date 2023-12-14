@@ -1,19 +1,15 @@
-해커톤을 위한 WallectConnect Test Repository
+Purify Test Readme.md 
 
-# Project Title
+# Purify
 One paragraph of project description goes here. Things to include:
 - What is the primary functionality of this project?
 - What is the purpose of this project?
 - How does it look like in action? Have any screenshots, videos etc.?
-- Link to the live version/canister, if there is one
+- , if there is one
 
 
-
-
+[Link to the canister](https://oz5wg-liaaa-aaaap-qb43a-cai.icp0.io/)
 https://github.com/drimh/WalletConnectTest/assets/107299318/f6bb25d8-f0ef-41a7-aecb-834b85209af9
-
-
-
 
 ## Introduction
 This is a high level description of the project. Describe what the project is for, what it is doing and which problem it solves. This should not be long, usually 2-3 lines is good, keep it short and precise.
