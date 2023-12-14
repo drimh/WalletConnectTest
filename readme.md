@@ -1,12 +1,8 @@
 Purify Test Readme.md 
 
 # Purify
-One paragraph of project description goes here. Things to include:
 - What is the primary functionality of this project?
 - What is the purpose of this project?
-- How does it look like in action? Have any screenshots, videos etc.?
-- , if there is one
-
 
 [Link to the canister](https://oz5wg-liaaa-aaaap-qb43a-cai.icp0.io/)
 
