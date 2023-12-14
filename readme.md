@@ -8,7 +8,8 @@ One paragraph of project description goes here. Things to include:
 - Link to the live version/canister, if there is one
 
 
-https://github.com/silverkong/purify/assets/107299318/4c665fd1-a865-4ab0-bda4-43e7a6cffc0b
+<img src="https://github.com/silverkong/purify/assets/107299318/4c665fd1-a865-4ab0-bda4-43e7a6cffc0b" alt="PurifyMain" width="300">
+
 
 
 ## Introduction
