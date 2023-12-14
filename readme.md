@@ -9,6 +9,7 @@ One paragraph of project description goes here. Things to include:
 
 
 [Link to the canister](https://oz5wg-liaaa-aaaap-qb43a-cai.icp0.io/)
+
 https://github.com/drimh/WalletConnectTest/assets/107299318/f6bb25d8-f0ef-41a7-aecb-834b85209af9
 
 ## Introduction
