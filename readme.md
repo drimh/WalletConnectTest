@@ -9,14 +9,13 @@ The purpose of this project is to address the information asymmetry in SocialFi,
 https://github.com/drimh/WalletConnectTest/assets/107299318/f6bb25d8-f0ef-41a7-aecb-834b85209af9
 
 ## Introduction
-This is a high level description of the project. Describe what the project is for, what it is doing and which problem it solves. This should not be long, usually 2-3 lines is good, keep it short and precise.
+- Resolving Fragmented Social Graphs through Uni-Social Graph
+- High User Satisfaction through Decentralized and Transparent Data Collection
+- Resolving Social-Fi Scammers and Addressing Numerous Bot Issues through High ICP Dependency
 
-Highlight some features:
-- Consectetur adipiscing elit in efficitur.
-- Congue ac nunc nec, bibendum hendrerit mi.
-- Donec sodales ligula ac dolor vehicula, at venenatis nulla feugiat.
-
-Adding an illustration of the architecture can quickly explain how the project is built, and how it works. 
+- uni-social graph를 이용한 파편화된 소셜 그래프 해결 
+- 탈중앙화되고 투명한 데이터 수집으로 높은 유저 만족도
+- 높은 icp 의존도를 이용한 소셜파이 스캠러들과 다수의 봇 문제 해결
 
 ![스크린샷 2023-12-14 오후 3 44 58](https://github.com/drimh/WalletConnectTest/assets/107299318/a340fdde-dfc5-4445-8413-7e04e2932d62)
 
