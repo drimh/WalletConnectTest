@@ -1,7 +1,9 @@
 Purify Test Readme.md 
 
 # Purify
-The main functionality of this project is SocialFi. The purpose of this project is to address the information asymmetry in SocialFi, resolve potential price manipulation situations caused by SocialFi scammers and numerous bots, and also address the fragmentation of the social graph to ensure that future applications are not hindered by it.
+The main functionality of this project is SocialFi. 
+The purpose of this project is to address the information asymmetry in SocialFi, resolve potential price manipulation situations caused by SocialFi scammers and numerous bots, and also address the fragmentation of the social graph to ensure that future applications are not hindered by it.
+
 [Link to the canister](https://oz5wg-liaaa-aaaap-qb43a-cai.icp0.io/)
 
 https://github.com/drimh/WalletConnectTest/assets/107299318/f6bb25d8-f0ef-41a7-aecb-834b85209af9
