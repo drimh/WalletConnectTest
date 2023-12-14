@@ -34,27 +34,5 @@ $ dfx start --background
 $ dfx deploy
 ```
 
-### Example 1
-Usage examples can be canister calls:
-
-```bash
-$ dfx canister call mycanister myfunc '("abc")'
-```
-
-### Example 2
-If the project is added as a separate canister, show how to access the functions.
-
-```javascript
-import MyFunc  "mo:myproj/MyFunc";  
-
-private let myFunc = MyFunc.MyFunc();
-
-...
-
-let value = myFunc("abc");
-
-...
-```
-
 ## License
 MIT license
