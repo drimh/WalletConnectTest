@@ -1,5 +1,3 @@
-Purify Test Readme.md 
-
 # Purify
 The main functionality of this project is SocialFi. 
 The purpose of this project is to address the information asymmetry in SocialFi, resolve potential price manipulation situations caused by SocialFi scammers and numerous bots, and also address the fragmentation of the social graph to ensure that future applications are not hindered by it.
@@ -12,10 +10,6 @@ https://github.com/drimh/WalletConnectTest/assets/107299318/f6bb25d8-f0ef-41a7-a
 - Resolving Fragmented Social Graphs through Uni-Social Graph
 - High User Satisfaction through Decentralized and Transparent Data Collection
 - Resolving Social-Fi Scammers and Addressing Numerous Bot Issues through High ICP Dependency
-
-- uni-social graph를 이용한 파편화된 소셜 그래프 해결 
-- 탈중앙화되고 투명한 데이터 수집으로 높은 유저 만족도
-- 높은 icp 의존도를 이용한 소셜파이 스캠러들과 다수의 봇 문제 해결
 
 ![스크린샷 2023-12-14 오후 3 44 58](https://github.com/drimh/WalletConnectTest/assets/107299318/a340fdde-dfc5-4445-8413-7e04e2932d62)
 
@@ -40,11 +34,6 @@ $ dfx start --background
 $ dfx deploy
 ```
 
-Nullam eu dictum ipsum, eu sagittis lacus. Integer posuere purus vel nisi sodales posuere. Donec dolor libero, posuere ac lacinia vitae, ornare a nisl. Praesent placerat quam non elit blandit, ut pretium lacus rutrum.
-
-## Usage
-Most projects have a frontend, so link to the canister and provide a brief getting-started instruction. If the project has a backend that may be called without a frontend, which is typically the case for developer libraries, tooling, infrastructure etc., then provide some basic examples of how to use it. 
-
 ### Example 1
 Usage examples can be canister calls:
 
@@ -67,43 +56,5 @@ let value = myFunc("abc");
 ...
 ```
 
-## Documentation
-Further documentation can exist in the README file if the project only contains a few functions. It can also be located elsewhere, if it is extensive, if this is the case, link to it.  
-
-## Testing
-Test instructions, and test scripts, for this project:
-
-```bash
-$ run test
-```
-
-Test specific feature:
-
-```bash
-$ run test 1
-```
-
-## Roadmap
-Describe the project roadmap, this could be the grant milestones, but it could also be the team's broader project roadmap.
-
-- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- [x] Praesent semper quis libero eu fermentum. 
-- [x] Morbi sed velit scelerisque, semper ante vel, tincidunt velit. 
-- [x] Sed posuere feugiat nisi, et porttitor ante volutpat ac.
-- [ ] Praesent vehicula ultrices vehicula. Suspendisse arcu dui, egestas ac lacus non, efficitur lacinia purus.
-- [ ] Curabitur ornare vehicula feugiat.
-
 ## License
-This project is licensed under the MIT license, see LICENSE.md for details. See CONTRIBUTE.md for details about how to contribute to this project. 
-
-## Acknowledgements
-- Hat tip to anyone who's code was used
-- External contributors
-- Etc.
-
-## References
-- [Internet Computer](https://internetcomputer.org)
-- Etiam dolor ante
-- Nullam iaculis risus vitae
-
-
+MIT license
