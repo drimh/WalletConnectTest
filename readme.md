@@ -20,11 +20,14 @@ Step-by-step guide to get a copy of the project up and running locally for devel
 A step-by-step guide to installing the project, including necessary configuration etc.
 
 ```bash
-$ git clone <GitHub repo>
-$ cd <project>
+$ git clone [<GitHub repo>](https://github.com/silverkong/purify.git)
+$ cd purify
 $ npm install
-$ dfx start --background
+$ dfx start
+$ dfx build
+$ dfx generate
 $ dfx deploy
+$ npm run dev
 ```
 
 ## License
