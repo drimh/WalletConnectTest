@@ -18,7 +18,7 @@ Highlight some features:
 
 Adding an illustration of the architecture can quickly explain how the project is built, and how it works. 
 
-![Illustration Example](local-workflow.png)
+![스크린샷 2023-12-14 오후 3 44 58](https://github.com/drimh/WalletConnectTest/assets/107299318/a340fdde-dfc5-4445-8413-7e04e2932d62)
 
 ## Installation
 Step-by-step guide to get a copy of the project up and running locally for development and testing.
