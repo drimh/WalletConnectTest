@@ -7,7 +7,11 @@ One paragraph of project description goes here. Things to include:
 - How does it look like in action? Have any screenshots, videos etc.?
 - Link to the live version/canister, if there is one
 
-![Uploading 업로드용.gif…]()
+
+
+
+https://github.com/drimh/WalletConnectTest/assets/107299318/f6bb25d8-f0ef-41a7-aecb-834b85209af9
+
 
 
 
