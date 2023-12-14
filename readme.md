@@ -7,9 +7,9 @@ One paragraph of project description goes here. Things to include:
 - How does it look like in action? Have any screenshots, videos etc.?
 - Link to the live version/canister, if there is one
 
-<p align="center">
-  <img src="https://github.com/silverkong/purify/assets/107299318/4c665fd1-a865-4ab0-bda4-43e7a6cffc0bRE">
-</p>
+
+https://github.com/silverkong/purify/assets/107299318/4c665fd1-a865-4ab0-bda4-43e7a6cffc0bRE
+
 
 
 ## Introduction
